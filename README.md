@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vaibhav Pawar
-- 👀 I’m interested in Writing.
+- 👀 I’m interested in Technical Writing.
 - 🌱 I’m currently learning Github.
 - 💞️ I’m looking to collaborate on Github project documentation.
 - 📫 Reach me out on www.linkedin.com/in/pawar-vaibhav
